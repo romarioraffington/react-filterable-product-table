@@ -1,7 +1,5 @@
-# Filterable Product Table :cake: :sushi: :rice_ball: :fries:
-
-[![CircleCI](https://circleci.com/gh/romarioraffington/react-filterable-product-table/tree/master.svg?style=svg)](https://circleci.com/gh/romarioraffington/react-filterable-product-table/tree/master)
-
+# Filterable Product Table :cake: :sushi: :rice_ball: :fries: [![CircleCI](https://circleci.com/gh/romarioraffington/react-filterable-product-table/tree/master.svg?style=svg)](https://circleci.com/gh/romarioraffington/react-filterable-product-table/tree/master)
+ 
 This is simple React application that was orginally created for the [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy) post in the  React docs. 
 
 This repository goes along with the medium article titled [Testing React Apps with Jest and chai-enzyme for Beginners](#).  In that article I talked about the tools, folder stucture and my thought process when testing React applications. 
