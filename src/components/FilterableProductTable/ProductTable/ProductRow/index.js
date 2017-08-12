@@ -6,7 +6,7 @@ const ProductRow = ({ product }) => {
     product.name :
     <span style={{ color: 'red' }}>
       {product.name}
-    </span>;
+    </span>
 
   return (
     <tr >
