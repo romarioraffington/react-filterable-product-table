@@ -32,12 +32,6 @@ $ npm start
 $ npm test
 ```
 
-## Running Coverage
-
-```shell
-$ npm run coverage
-```
-
 ## Building the Project
 
 ```shell
