@@ -1,5 +1,6 @@
 // External Depedencies
 import React from 'react';
+import faker from 'faker';
 import { shallow } from 'enzyme';
 
 // Our Dependencies
@@ -31,4 +32,16 @@ describe('FilterableProductTable', () => {
   it('should initialize the inStockOnly state to false', () => {
     expect(wrapper).to.have.state('inStockOnly').to.equal(false);
   })
+
+  // Testing class functions
+  it('should update the state filter to the correct value', () => {
+    const filterText = faker.lorem.word();
+    wrapper.instance().handleFilterTextInput(filterText)
+    expect(wrapper).to.have.state('filterText').to.equal(filterText);
+  });
+
+  it('should update the state inStockOnly to true', () => {
+    wrapper.instance().handleInStockInput(true)
+    expect(wrapper).to.have.state('inStockOnly').to.equal(true);
+  });
 });
