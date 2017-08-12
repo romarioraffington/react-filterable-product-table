@@ -12,15 +12,11 @@ class FilterableProductTable extends Component {
   };
 
   handleFilterTextInput = (filterText) => {
-    this.setState({
-      filterText: filterText
-    });
+    this.setState({ filterText });
   }
 
   handleInStockInput = (inStockOnly) => {
-    this.setState({
-      inStockOnly: inStockOnly
-    })
+    this.setState({ inStockOnly });
   }
 
   render() {
