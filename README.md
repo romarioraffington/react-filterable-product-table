@@ -46,4 +46,4 @@ $ npm run build
 Feel free to submit a pull requests! For specifics on how to contribute to this project, check out the  [contributing file](CONTRIBUTING.md).
 
 ## License
-My Reads is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](LICENSE).
