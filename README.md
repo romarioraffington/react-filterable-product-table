@@ -1,4 +1,9 @@
 # Filterable Product Table :cake: :sushi: :rice_ball: :fries: [![CircleCI](https://circleci.com/gh/romarioraffington/react-filterable-product-table/tree/master.svg?style=svg)](https://circleci.com/gh/romarioraffington/react-filterable-product-table/tree/master)
+
+View the:
+* [Demo](https://react-filterable-product-table.herokuapp.com) :bowtie:
+* [Medium Article](https://medium.com/@romarioraff/testing-react-apps-with-jest-and-chai-enzyme-for-beginners-baa5f57cec0b) :page_facing_up:
+
  
 This is simple React application that was orginally created for the [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy) post in the  React docs. 
 
